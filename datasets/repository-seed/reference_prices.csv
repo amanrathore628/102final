@@ -1,0 +1,9 @@
+﻿id,item_code,item_name,category,unit,gem_reference_price,min_price,max_price,tolerance_pct
+1,GEM-LED-100W,LED Street Light (100W),Movable Goods,Each,11200.0,9500.0,13000.0,15.0
+2,GEM-CEM-53G,Cement (Grade 53),Civil Materials,Bag (50kg),380.0,340.0,420.0,12.0
+3,GEM-STEEL-TMT,Steel (TMT Bar),Civil Materials,Metric Ton,58000.0,52000.0,64000.0,10.0
+4,GEM-DESKTOP-I5,Computer (Desktop),Movable Goods,Each,42500.0,38000.0,48000.0,15.0
+5,GEM-PUMP-5HP,Water Pump (5 HP),Movable Goods,Each,24000.0,21000.0,27000.0,15.0
+6,GEM-SOLAR-330W,Solar Panel (300W),Movable Goods,Each,12800.0,11000.0,14500.0,15.0
+7,GEM-RO-250L,RO Water Purifier Commercial,Movable Goods,Each,85000.0,75000.0,95000.0,15.0
+8,GEM-HIGHMAST,High Mast Light (12.5m),Movable Goods,Each,185000.0,160000.0,210000.0,15.0

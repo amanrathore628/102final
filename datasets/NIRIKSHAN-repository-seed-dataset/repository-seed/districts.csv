@@ -1,0 +1,7 @@
+﻿id,state_id,name,total_works,total_expenditure,flagged_works,high_risk_works,avg_utilization,avg_risk_score,top_signal
+1,1,Rohtas,8,1.06,3,1,66.0,49.9,Price Benchmarking
+2,1,Patna,12,3.21,2,0,71.4,41.7,IQR Outlier
+3,2,Banaskantha,11,2.16,4,1,72.2,50.7,Vendor HHI
+4,2,Surat,4,0.57,1,0,55.1,45.2,Price Benchmarking
+5,3,Jaipur,11,2.31,6,0,77.0,52.7,Price Benchmarking
+6,4,Pune,5,1.57,0,0,65.7,39.2,Benford's Law

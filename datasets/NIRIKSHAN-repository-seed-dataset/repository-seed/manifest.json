@@ -1,0 +1,73 @@
+{
+  "source_repository": "https://github.com/QuorLum/NIRIKSHAN",
+  "source_commit": "a08c88ab4e0122b47442731f291495c790dcfd66",
+  "source_generator": "NIRIKSHAN/backend/services/seeder.py",
+  "dataset_type": "Deterministic synthetic demonstration dataset",
+  "tables": {
+    "audit_events": {
+      "rows": 102,
+      "file": "audit_events.csv"
+    },
+    "constituencies": {
+      "rows": 5,
+      "file": "constituencies.csv"
+    },
+    "districts": {
+      "rows": 6,
+      "file": "districts.csv"
+    },
+    "duplicate_pairs": {
+      "rows": 3,
+      "file": "duplicate_pairs.csv"
+    },
+    "ingestion_runs": {
+      "rows": 4,
+      "file": "ingestion_runs.csv"
+    },
+    "reference_prices": {
+      "rows": 8,
+      "file": "reference_prices.csv"
+    },
+    "review_cases": {
+      "rows": 16,
+      "file": "review_cases.csv"
+    },
+    "review_decisions": {
+      "rows": 1,
+      "file": "review_decisions.csv"
+    },
+    "risk_assessments": {
+      "rows": 51,
+      "file": "risk_assessments.csv"
+    },
+    "states": {
+      "rows": 6,
+      "file": "states.csv"
+    },
+    "vendors": {
+      "rows": 6,
+      "file": "vendors.csv"
+    },
+    "work_items": {
+      "rows": 102,
+      "file": "work_items.csv"
+    },
+    "work_photos": {
+      "rows": 102,
+      "file": "work_photos.csv"
+    },
+    "works": {
+      "rows": 51,
+      "file": "works.csv"
+    }
+  },
+  "combined_dataset": {
+    "file": "nirikshan_works_with_risk.csv",
+    "rows": 51,
+    "description": "Presentation-ready works joined with geography, vendor and five risk scores"
+  },
+  "photo_assets": [
+    "community_hall_1.jpg",
+    "street_light_1.jpg"
+  ]
+}

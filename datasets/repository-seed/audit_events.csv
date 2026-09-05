@@ -1,0 +1,103 @@
+﻿id,work_id,actor_name,actor_role,action,details,previous_state,new_state,timestamp
+1,1,Data Sync,System,Dataset synchronized,Work record MPLADS-BR-00481 ingested and normalized from eSAKSHI portal.,,Under Review,2026-09-05 12:17:00.177886
+2,1,Risk Engine,System,Risk recalculated,Evaluated 5 detection engines. Composite risk score calculated as 83/100 (HIGH).,0,83,2026-09-05 12:17:00.177886
+3,2,Data Sync,System,Dataset synchronized,Work record WD-24-301 ingested and normalized from eSAKSHI portal.,,Work in Progress,2026-09-05 12:17:00.177886
+4,2,Risk Engine,System,Risk recalculated,Evaluated 5 detection engines. Composite risk score calculated as 70/100 (MEDIUM).,0,70,2026-09-05 12:17:00.177886
+5,3,Data Sync,System,Dataset synchronized,Work record WD-24-302 ingested and normalized from eSAKSHI portal.,,Completed,2026-09-05 12:17:00.177886
+6,3,Risk Engine,System,Risk recalculated,Evaluated 5 detection engines. Composite risk score calculated as 81/100 (HIGH).,0,81,2026-09-05 12:17:00.177886
+7,4,Data Sync,System,Dataset synchronized,Work record SL-24-115 ingested and normalized from eSAKSHI portal.,,Completed,2026-09-05 12:17:00.194821
+8,4,Risk Engine,System,Risk recalculated,Evaluated 5 detection engines. Composite risk score calculated as 52/100 (MEDIUM).,0,52,2026-09-05 12:17:00.194821
+9,5,Data Sync,System,Dataset synchronized,Work record SC-24-420 ingested and normalized from eSAKSHI portal.,,Under Audit,2026-09-05 12:17:00.201944
+10,5,Risk Engine,System,Risk recalculated,Evaluated 5 detection engines. Composite risk score calculated as 62/100 (MEDIUM).,0,62,2026-09-05 12:17:00.201944
+11,6,Data Sync,System,Dataset synchronized,Work record RD-24-005 ingested and normalized from eSAKSHI portal.,,Just Sanctioned,2026-09-05 12:17:00.201944
+12,6,Risk Engine,System,Risk recalculated,Evaluated 5 detection engines. Composite risk score calculated as 34/100 (LOW).,0,34,2026-09-05 12:17:00.201944
+13,7,Data Sync,System,Dataset synchronized,Work record MPLADS-MH-1001 ingested and normalized from eSAKSHI portal.,,Work in Progress,2026-09-05 12:17:00.211290
+14,7,Risk Engine,System,Risk recalculated,Evaluated 5 detection engines. Composite risk score calculated as 38/100 (LOW).,0,38,2026-09-05 12:17:00.211290
+15,8,Data Sync,System,Dataset synchronized,Work record MPLADS-BR-1002 ingested and normalized from eSAKSHI portal.,,Work in Progress,2026-09-05 12:17:00.211290
+16,8,Risk Engine,System,Risk recalculated,Evaluated 5 detection engines. Composite risk score calculated as 37/100 (LOW).,0,37,2026-09-05 12:17:00.211290
+17,9,Data Sync,System,Dataset synchronized,Work record MPLADS-RJ-1003 ingested and normalized from eSAKSHI portal.,,Work in Progress,2026-09-05 12:17:00.211290
+18,9,Risk Engine,System,Risk recalculated,Evaluated 5 detection engines. Composite risk score calculated as 41/100 (LOW).,0,41,2026-09-05 12:17:00.211290
+19,10,Data Sync,System,Dataset synchronized,Work record MPLADS-RJ-1004 ingested and normalized from eSAKSHI portal.,,Completed,2026-09-05 12:17:00.227889
+20,10,Risk Engine,System,Risk recalculated,Evaluated 5 detection engines. Composite risk score calculated as 73/100 (MEDIUM).,0,73,2026-09-05 12:17:00.227889
+21,11,Data Sync,System,Dataset synchronized,Work record MPLADS-GJ-1005 ingested and normalized from eSAKSHI portal.,,Work in Progress,2026-09-05 12:17:00.227889
+22,11,Risk Engine,System,Risk recalculated,Evaluated 5 detection engines. Composite risk score calculated as 38/100 (LOW).,0,38,2026-09-05 12:17:00.227889
+23,12,Data Sync,System,Dataset synchronized,Work record MPLADS-RJ-1006 ingested and normalized from eSAKSHI portal.,,Work in Progress,2026-09-05 12:17:00.227889
+24,12,Risk Engine,System,Risk recalculated,Evaluated 5 detection engines. Composite risk score calculated as 38/100 (LOW).,0,38,2026-09-05 12:17:00.227889
+25,13,Data Sync,System,Dataset synchronized,Work record MPLADS-GJ-1007 ingested and normalized from eSAKSHI portal.,,Work in Progress,2026-09-05 12:17:00.239446
+26,13,Risk Engine,System,Risk recalculated,Evaluated 5 detection engines. Composite risk score calculated as 39/100 (LOW).,0,39,2026-09-05 12:17:00.239446
+27,14,Data Sync,System,Dataset synchronized,Work record MPLADS-RJ-1008 ingested and normalized from eSAKSHI portal.,,Completed,2026-09-05 12:17:00.244812
+28,14,Risk Engine,System,Risk recalculated,Evaluated 5 detection engines. Composite risk score calculated as 73/100 (MEDIUM).,0,73,2026-09-05 12:17:00.244812
+29,15,Data Sync,System,Dataset synchronized,Work record MPLADS-BR-1009 ingested and normalized from eSAKSHI portal.,,Work in Progress,2026-09-05 12:17:00.244812
+30,15,Risk Engine,System,Risk recalculated,Evaluated 5 detection engines. Composite risk score calculated as 36/100 (LOW).,0,36,2026-09-05 12:17:00.244812
+31,16,Data Sync,System,Dataset synchronized,Work record MPLADS-GJ-1010 ingested and normalized from eSAKSHI portal.,,Work in Progress,2026-09-05 12:17:00.244812
+32,16,Risk Engine,System,Risk recalculated,Evaluated 5 detection engines. Composite risk score calculated as 39/100 (LOW).,0,39,2026-09-05 12:17:00.244812
+33,17,Data Sync,System,Dataset synchronized,Work record MPLADS-BR-1011 ingested and normalized from eSAKSHI portal.,,Work in Progress,2026-09-05 12:17:00.261396
+34,17,Risk Engine,System,Risk recalculated,Evaluated 5 detection engines. Composite risk score calculated as 39/100 (LOW).,0,39,2026-09-05 12:17:00.261396
+35,18,Data Sync,System,Dataset synchronized,Work record MPLADS-RJ-1012 ingested and normalized from eSAKSHI portal.,,Under Review,2026-09-05 12:17:00.261396
+36,18,Risk Engine,System,Risk recalculated,Evaluated 5 detection engines. Composite risk score calculated as 63/100 (MEDIUM).,0,63,2026-09-05 12:17:00.261396
+37,19,Data Sync,System,Dataset synchronized,Work record MPLADS-RJ-1013 ingested and normalized from eSAKSHI portal.,,Work in Progress,2026-09-05 12:17:00.261396
+38,19,Risk Engine,System,Risk recalculated,Evaluated 5 detection engines. Composite risk score calculated as 43/100 (LOW).,0,43,2026-09-05 12:17:00.261396
+39,20,Data Sync,System,Dataset synchronized,Work record MPLADS-BR-1014 ingested and normalized from eSAKSHI portal.,,Work in Progress,2026-09-05 12:17:00.279331
+40,20,Risk Engine,System,Risk recalculated,Evaluated 5 detection engines. Composite risk score calculated as 39/100 (LOW).,0,39,2026-09-05 12:17:00.279331
+41,21,Data Sync,System,Dataset synchronized,Work record MPLADS-MH-1015 ingested and normalized from eSAKSHI portal.,,Work in Progress,2026-09-05 12:17:00.279331
+42,21,Risk Engine,System,Risk recalculated,Evaluated 5 detection engines. Composite risk score calculated as 43/100 (LOW).,0,43,2026-09-05 12:17:00.279331
+43,22,Data Sync,System,Dataset synchronized,Work record MPLADS-RJ-1016 ingested and normalized from eSAKSHI portal.,,Under Review,2026-09-05 12:17:00.293178
+44,22,Risk Engine,System,Risk recalculated,Evaluated 5 detection engines. Composite risk score calculated as 61/100 (MEDIUM).,0,61,2026-09-05 12:17:00.293178
+45,23,Data Sync,System,Dataset synchronized,Work record MPLADS-BR-1017 ingested and normalized from eSAKSHI portal.,,Work in Progress,2026-09-05 12:17:00.294227
+46,23,Risk Engine,System,Risk recalculated,Evaluated 5 detection engines. Composite risk score calculated as 43/100 (LOW).,0,43,2026-09-05 12:17:00.294227
+47,24,Data Sync,System,Dataset synchronized,Work record MPLADS-BR-1018 ingested and normalized from eSAKSHI portal.,,Work in Progress,2026-09-05 12:17:00.301957
+48,24,Risk Engine,System,Risk recalculated,Evaluated 5 detection engines. Composite risk score calculated as 40/100 (LOW).,0,40,2026-09-05 12:17:00.301957
+49,25,Data Sync,System,Dataset synchronized,Work record MPLADS-BR-1019 ingested and normalized from eSAKSHI portal.,,Work in Progress,2026-09-05 12:17:00.301957
+50,25,Risk Engine,System,Risk recalculated,Evaluated 5 detection engines. Composite risk score calculated as 37/100 (LOW).,0,37,2026-09-05 12:17:00.301957
+51,26,Data Sync,System,Dataset synchronized,Work record MPLADS-BR-1020 ingested and normalized from eSAKSHI portal.,,Under Review,2026-09-05 12:17:00.311459
+52,26,Risk Engine,System,Risk recalculated,Evaluated 5 detection engines. Composite risk score calculated as 66/100 (MEDIUM).,0,66,2026-09-05 12:17:00.311459
+53,27,Data Sync,System,Dataset synchronized,Work record MPLADS-BR-1021 ingested and normalized from eSAKSHI portal.,,Work in Progress,2026-09-05 12:17:00.311459
+54,27,Risk Engine,System,Risk recalculated,Evaluated 5 detection engines. Composite risk score calculated as 37/100 (LOW).,0,37,2026-09-05 12:17:00.311459
+55,28,Data Sync,System,Dataset synchronized,Work record MPLADS-MH-1022 ingested and normalized from eSAKSHI portal.,,Work in Progress,2026-09-05 12:17:00.311459
+56,28,Risk Engine,System,Risk recalculated,Evaluated 5 detection engines. Composite risk score calculated as 38/100 (LOW).,0,38,2026-09-05 12:17:00.311459
+57,29,Data Sync,System,Dataset synchronized,Work record MPLADS-GJ-1023 ingested and normalized from eSAKSHI portal.,,Work in Progress,2026-09-05 12:17:00.327968
+58,29,Risk Engine,System,Risk recalculated,Evaluated 5 detection engines. Composite risk score calculated as 39/100 (LOW).,0,39,2026-09-05 12:17:00.327968
+59,30,Data Sync,System,Dataset synchronized,Work record MPLADS-BR-1024 ingested and normalized from eSAKSHI portal.,,Under Review,2026-09-05 12:17:00.327968
+60,30,Risk Engine,System,Risk recalculated,Evaluated 5 detection engines. Composite risk score calculated as 60/100 (MEDIUM).,0,60,2026-09-05 12:17:00.327968
+61,31,Data Sync,System,Dataset synchronized,Work record MPLADS-GJ-1025 ingested and normalized from eSAKSHI portal.,,Work in Progress,2026-09-05 12:17:00.327968
+62,31,Risk Engine,System,Risk recalculated,Evaluated 5 detection engines. Composite risk score calculated as 40/100 (LOW).,0,40,2026-09-05 12:17:00.327968
+63,32,Data Sync,System,Dataset synchronized,Work record MPLADS-BR-1026 ingested and normalized from eSAKSHI portal.,,Work in Progress,2026-09-05 12:17:00.344754
+64,32,Risk Engine,System,Risk recalculated,Evaluated 5 detection engines. Composite risk score calculated as 38/100 (LOW).,0,38,2026-09-05 12:17:00.344754
+65,33,Data Sync,System,Dataset synchronized,Work record MPLADS-BR-1027 ingested and normalized from eSAKSHI portal.,,Work in Progress,2026-09-05 12:17:00.344754
+66,33,Risk Engine,System,Risk recalculated,Evaluated 5 detection engines. Composite risk score calculated as 35/100 (LOW).,0,35,2026-09-05 12:17:00.344754
+67,34,Data Sync,System,Dataset synchronized,Work record MPLADS-RJ-1028 ingested and normalized from eSAKSHI portal.,,Under Review,2026-09-05 12:17:00.361602
+68,34,Risk Engine,System,Risk recalculated,Evaluated 5 detection engines. Composite risk score calculated as 61/100 (MEDIUM).,0,61,2026-09-05 12:17:00.361602
+69,35,Data Sync,System,Dataset synchronized,Work record MPLADS-BR-1029 ingested and normalized from eSAKSHI portal.,,Work in Progress,2026-09-05 12:17:00.361602
+70,35,Risk Engine,System,Risk recalculated,Evaluated 5 detection engines. Composite risk score calculated as 35/100 (LOW).,0,35,2026-09-05 12:17:00.361602
+71,36,Data Sync,System,Dataset synchronized,Work record MPLADS-BR-1030 ingested and normalized from eSAKSHI portal.,,Work in Progress,2026-09-05 12:17:00.361602
+72,36,Risk Engine,System,Risk recalculated,Evaluated 5 detection engines. Composite risk score calculated as 36/100 (LOW).,0,36,2026-09-05 12:17:00.361602
+73,37,Data Sync,System,Dataset synchronized,Work record MPLADS-MH-1031 ingested and normalized from eSAKSHI portal.,,Completed,2026-09-05 12:17:00.361602
+74,37,Risk Engine,System,Risk recalculated,Evaluated 5 detection engines. Composite risk score calculated as 43/100 (LOW).,0,43,2026-09-05 12:17:00.361602
+75,38,Data Sync,System,Dataset synchronized,Work record MPLADS-GJ-1032 ingested and normalized from eSAKSHI portal.,,Under Review,2026-09-05 12:17:00.378069
+76,38,Risk Engine,System,Risk recalculated,Evaluated 5 detection engines. Composite risk score calculated as 60/100 (MEDIUM).,0,60,2026-09-05 12:17:00.378069
+77,39,Data Sync,System,Dataset synchronized,Work record MPLADS-RJ-1033 ingested and normalized from eSAKSHI portal.,,Completed,2026-09-05 12:17:00.378069
+78,39,Risk Engine,System,Risk recalculated,Evaluated 5 detection engines. Composite risk score calculated as 36/100 (LOW).,0,36,2026-09-05 12:17:00.378069
+79,40,Data Sync,System,Dataset synchronized,Work record MPLADS-BR-1034 ingested and normalized from eSAKSHI portal.,,Work in Progress,2026-09-05 12:17:00.378069
+80,40,Risk Engine,System,Risk recalculated,Evaluated 5 detection engines. Composite risk score calculated as 41/100 (LOW).,0,41,2026-09-05 12:17:00.378069
+81,41,Data Sync,System,Dataset synchronized,Work record MPLADS-GJ-1035 ingested and normalized from eSAKSHI portal.,,Work in Progress,2026-09-05 12:17:00.395624
+82,41,Risk Engine,System,Risk recalculated,Evaluated 5 detection engines. Composite risk score calculated as 46/100 (LOW).,0,46,2026-09-05 12:17:00.395624
+83,42,Data Sync,System,Dataset synchronized,Work record MPLADS-BR-1036 ingested and normalized from eSAKSHI portal.,,Under Review,2026-09-05 12:17:00.395624
+84,42,Risk Engine,System,Risk recalculated,Evaluated 5 detection engines. Composite risk score calculated as 62/100 (MEDIUM).,0,62,2026-09-05 12:17:00.395624
+85,43,Data Sync,System,Dataset synchronized,Work record MPLADS-BR-1037 ingested and normalized from eSAKSHI portal.,,Completed,2026-09-05 12:17:00.402180
+86,43,Risk Engine,System,Risk recalculated,Evaluated 5 detection engines. Composite risk score calculated as 34/100 (LOW).,0,34,2026-09-05 12:17:00.402180
+87,44,Data Sync,System,Dataset synchronized,Work record MPLADS-GJ-1038 ingested and normalized from eSAKSHI portal.,,Work in Progress,2026-09-05 12:17:00.410039
+88,44,Risk Engine,System,Risk recalculated,Evaluated 5 detection engines. Composite risk score calculated as 41/100 (LOW).,0,41,2026-09-05 12:17:00.410039
+89,45,Data Sync,System,Dataset synchronized,Work record MPLADS-BR-1039 ingested and normalized from eSAKSHI portal.,,Work in Progress,2026-09-05 12:17:00.411837
+90,45,Risk Engine,System,Risk recalculated,Evaluated 5 detection engines. Composite risk score calculated as 39/100 (LOW).,0,39,2026-09-05 12:17:00.411837
+91,46,Data Sync,System,Dataset synchronized,Work record MPLADS-GJ-1040 ingested and normalized from eSAKSHI portal.,,Completed,2026-09-05 12:17:00.411837
+92,46,Risk Engine,System,Risk recalculated,Evaluated 5 detection engines. Composite risk score calculated as 60/100 (MEDIUM).,0,60,2026-09-05 12:17:00.411837
+93,47,Data Sync,System,Dataset synchronized,Work record MPLADS-GJ-1041 ingested and normalized from eSAKSHI portal.,,Work in Progress,2026-09-05 12:17:00.427641
+94,47,Risk Engine,System,Risk recalculated,Evaluated 5 detection engines. Composite risk score calculated as 43/100 (LOW).,0,43,2026-09-05 12:17:00.427641
+95,48,Data Sync,System,Dataset synchronized,Work record MPLADS-GJ-1042 ingested and normalized from eSAKSHI portal.,,Completed,2026-09-05 12:17:00.427641
+96,48,Risk Engine,System,Risk recalculated,Evaluated 5 detection engines. Composite risk score calculated as 39/100 (LOW).,0,39,2026-09-05 12:17:00.427641
+97,49,Data Sync,System,Dataset synchronized,Work record MPLADS-GJ-1043 ingested and normalized from eSAKSHI portal.,,Work in Progress,2026-09-05 12:17:00.427641
+98,49,Risk Engine,System,Risk recalculated,Evaluated 5 detection engines. Composite risk score calculated as 44/100 (LOW).,0,44,2026-09-05 12:17:00.427641
+99,50,Data Sync,System,Dataset synchronized,Work record MPLADS-GJ-1044 ingested and normalized from eSAKSHI portal.,,Under Review,2026-09-05 12:17:00.427641
+100,50,Risk Engine,System,Risk recalculated,Evaluated 5 detection engines. Composite risk score calculated as 60/100 (MEDIUM).,0,60,2026-09-05 12:17:00.427641
+101,51,Data Sync,System,Dataset synchronized,Work record MPLADS-RJ-1045 ingested and normalized from eSAKSHI portal.,,Work in Progress,2026-09-05 12:17:00.444586
+102,51,Risk Engine,System,Risk recalculated,Evaluated 5 detection engines. Composite risk score calculated as 39/100 (LOW).,0,39,2026-09-05 12:17:00.444586

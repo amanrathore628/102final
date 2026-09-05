@@ -1,0 +1,5 @@
+﻿id,source_dataset,records_imported,status,errors_count,warnings_count,log_text,timestamp
+1,eSAKSHI Bulk Import Q2,1565210,Completed,0,2,Bulk ingestion completed. Normalized 1.56M records across 764 constituencies.,2026-09-05 12:17:00.444586
+2,data.gov.in Records Import,842500,Completed,0,1,data.gov.in sync successful. Reconciled expenditure metrics.,2026-09-05 12:17:00.444586
+3,GeM Updated Catalog,3218,Completed,0,0,"GeM reference pricing updated. Benchmark rates synchronized for 3,218 item codes.",2026-09-05 12:17:00.444586
+4,Geo-tagged Photos Batch,1565,Completed,0,0,"Computed perceptual hashes and GPS bounding coordinates for 1,565 uploaded photos.",2026-09-05 12:17:00.444586

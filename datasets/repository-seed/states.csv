@@ -1,0 +1,7 @@
+﻿id,name,code,total_allocated,total_released,total_utilized
+1,Bihar,BR,2800.0,2400.0,1850.0
+2,Gujarat,GJ,3200.0,2900.0,2550.0
+3,Rajasthan,RJ,2500.0,2100.0,1720.0
+4,Maharashtra,MH,4800.0,4200.0,3650.0
+5,Uttar Pradesh,UP,5200.0,4600.0,3900.0
+6,Karnataka,KA,2600.0,2300.0,2010.0

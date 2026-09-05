@@ -1,0 +1,49 @@
+# ==============================================================================
+# NIRIKSHAN — Render Blueprint Specification
+# Deploys FastAPI Backend (Web Service) and React 19 Frontend (Static Site)
+# ==============================================================================
+
+services:
+  # ─── FastAPI Backend Web Service ─────────────────────────────────────────────
+  - type: web
+    name: nirikshan-backend
+    runtime: python
+    rootDir: NIRIKSHAN/backend
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
+    plan: free
+    autoDeploy: true
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.12.8
+      - key: ENVIRONMENT
+        value: production
+      - key: DEBUG
+        value: "false"
+      - key: USE_SQLITE_FALLBACK
+        value: "true"
+      - key: SQLITE_FALLBACK_URL
+        value: sqlite:///./data/nirikshan.db
+      - key: CORS_ORIGINS
+        value: "http://localhost:5173"
+      - key: SECRET_KEY
+        generateValue: true
+
+  # ─── React 19 / Vite Frontend Static Site ────────────────────────────────────
+  - type: web
+    name: nirikshan-frontend
+    runtime: static
+    rootDir: NIRIKSHAN/frontend
+    buildCommand: npm install && npm run build
+    staticPublishPath: ./dist
+    autoDeploy: true
+    routes:
+      - type: rewrite
+        source: /api/*
+        destination: https://nirikshan-backend-fcsp.onrender.com/api/*
+      - type: rewrite
+        source: /*
+        destination: /index.html
+    envVars:
+      - key: VITE_API_BASE_URL
+        value: https://nirikshan-backend-fcsp.onrender.com/api

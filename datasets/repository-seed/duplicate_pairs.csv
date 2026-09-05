@@ -1,0 +1,4 @@
+﻿id,work_a_id,work_b_id,photo_similarity_pct,text_similarity_pct,geo_distance_m,combined_confidence,status,created_at
+1,2,3,91.0,87.0,115.0,HIGH,Flagged,2026-09-05 12:17:00.444586
+2,1,5,68.0,62.0,420.0,MEDIUM,Under Review,2026-09-05 12:17:00.444586
+3,10,14,84.0,74.0,95.0,HIGH,Flagged,2026-09-05 12:17:00.444586

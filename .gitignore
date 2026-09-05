@@ -1,0 +1,91 @@
+# ==============================================================================
+# NIRIKSHAN — Git Ignore Rules
+# ==============================================================================
+
+# ─── Environment & Secrets ────────────────────────────────────────────────────
+# Never commit credentials, API keys, or local environment overrides.
+.env
+.env.local
+.env.*.local
+*.env
+!.env.example
+!NIRIKSHAN/.env.example
+
+# ─── Reference / Spec Files (Not Part of Deployable Code) ─────────────────────
+/MASTER_SPEC.md
+/reference-ui/
+/docs/
+/data/
+/problems.md
+
+# ─── Python ───────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ─── Node / Frontend ─────────────────────────────────────────────────────────
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+dist/
+dist-ssr/
+*.local
+.vite/
+
+# ─── Databases ────────────────────────────────────────────────────────────────
+*.sqlite
+*.sqlite3
+*.db
+*.db-journal
+
+# ─── Uploads & Temp Cache ─────────────────────────────────────────────────────
+NIRIKSHAN/backend/data/uploads/*
+!NIRIKSHAN/backend/data/uploads/.gitkeep
+NIRIKSHAN/backend/data/cache/*
+!NIRIKSHAN/backend/data/cache/.gitkeep
+tmp/
+temp/
+
+# ─── Binaries & Large Assets ──────────────────────────────────────────────────
+*.exe
+*.dll
+*.bin
+*.msi
+
+# ─── IDE / OS Files ──────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+.agents/
+
+# Local prototype runtime and private reference extraction
+.runtime/

@@ -1,0 +1,7 @@
+﻿id,name,gstin,pan,total_works,total_expenditure,avg_risk_score,status
+1,Local Contractor Ltd.,10AAACL1234F1Z1,AAACL1234F,35,21500000.0,82.0,Under Review
+2,Sharma Contractors,24AABCS5678K1Z5,AABCS5678K,128,321840000.0,92.0,Under Review
+3,Singh Builders,10AABCS9988M1Z2,AABCS9988M,78,58000000.0,95.0,Under Review
+4,Jaipur Lights Co.,08AABCJ1122D1Z9,AABCJ1122D,45,14800000.0,68.0,Active
+5,Reliance Infra,27AABCR3344P1Z3,AABCR3344P,110,45000000.0,35.0,Active
+6,Apex Civil Infra Ltd.,27AACCA9900L1Z8,AACCA9900L,24,18500000.0,28.0,Active
