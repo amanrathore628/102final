@@ -2,6 +2,9 @@
 
 Project: C:\Code\SIH-102
 
+## Public deployment
+The repository includes a root `Dockerfile` and `render.yaml` for a single public Render service. The container builds the React frontend, serves it from the FastAPI prototype entry point, and exposes `/api/health` for Render health checks. Render supplies the public HTTPS URL and `PORT` value.
+
 ## Start and stop
 Double-click **Start-Prototype.cmd**. Open http://127.0.0.1:8102.
 To stop the background server, double-click **Stop-Prototype.cmd**.

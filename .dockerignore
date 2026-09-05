@@ -1,0 +1,16 @@
+.git
+.github
+.agents
+.runtime
+**/.venv
+**/node_modules
+**/dist
+**/__pycache__
+**/.pytest_cache
+**/*.pyc
+**/*.db
+**/*.db-journal
+.env
+.env.*
+docs
+reference-ui
