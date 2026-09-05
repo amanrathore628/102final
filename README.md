@@ -1,3 +1,5 @@
+> **Public prototype:** [Launch NIRIKSHAN on Render](https://nirikshan-sih-102.onrender.com/official-data)
+>
 > **Local prototype:** Double-click `Start-Prototype.cmd` and open http://127.0.0.1:8102. See [PROTOTYPE.md](PROTOTYPE.md) for demo credentials and the presentation flow.
 
 <p align="center">
